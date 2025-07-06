@@ -1,2 +1,3 @@
 # Test-ML-Project
-It is a dummy ML project
+It is an ML project.
+It is the part of our curriculam.

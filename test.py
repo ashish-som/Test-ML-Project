@@ -1,6 +1,6 @@
 print('Hello friends!')
-a=10
-b=20
-c=a+b
-print(c)
+n1=10
+n2=20
+total=n1+n2
+print(f'The sum is- {total}')
 print('Thanks!')
